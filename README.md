@@ -111,21 +111,6 @@
 
 ---
 
-## 🏗️ 技術架構
-
-本平台採用全 **Serverless** 無伺服器架構，無需傳統主機，穩定性高、維護成本低：
-
-| 層級 | 技術 |
-|------|------|
-| 區塊鏈 | BNB Smart Chain · Solidity 智能合約 |
-| 前端託管 | Cloudflare Pages（全球 CDN） |
-| 後端 API | Cloudflare Workers（Serverless Edge） |
-| 資料庫 | Cloudflare D1（SQLite） |
-| 錢包整合 | MetaMask · ethers.js v6 |
-| 交易貨幣 | USDT BEP-20 |
-
----
-
 ## ⚠️ 免責聲明
 
 本平台僅提供技術撮合與資金託管服務，不對交易商品之合法性、真實性負責。加密貨幣交易具有市場風險，請使用者自行評估並謹慎操作。
