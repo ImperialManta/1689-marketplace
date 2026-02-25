@@ -8,9 +8,9 @@
 
 ## About
 
-**Xubao Marketplace** is a decentralized trading platform designed for online game players.
+**1689 Marketplace** is a decentralized trading platform designed for online game players.
 
-Traditional virtual item trading is full of scam risks — buyers pay and sellers disappear, or sellers deliver and buyers refuse to pay. Xubao Marketplace solves this with **BNB Smart Chain smart contracts**: funds are automatically held in escrow by the blockchain contract and only released upon trade completion, protecting both parties.
+Traditional virtual item trading is full of scam risks — buyers pay and sellers disappear, or sellers deliver and buyers refuse to pay. 1689 Marketplace solves this with **BNB Smart Chain smart contracts**: funds are automatically held in escrow by the blockchain contract and only released upon trade completion, protecting both parties.
 
 ---
 
