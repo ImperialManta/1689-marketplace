@@ -1,128 +1,128 @@
-# 虛寶交易所 — USDT 擔保交易平台
+# Xubao Marketplace — USDT Escrow Trading Platform
 
 > **A decentralized virtual item marketplace secured by USDT smart contract escrow on BNB Smart Chain.**
 
-🌐 **平台網址：** [1689-marketplace.uk](https://1689-marketplace.uk) &nbsp;|&nbsp; 📖 **交易教學：** [1689-marketplace.uk/tutorial](https://1689-marketplace.uk/tutorial/)
+🌐 **Platform:** [1689-marketplace.uk](https://1689-marketplace.uk) &nbsp;|&nbsp; 📖 **Tutorial:** [1689-marketplace.uk/tutorial](https://1689-marketplace.uk/tutorial/)
 
 ---
 
-## 平台簡介
+## About
 
-**虛寶交易所**是一個專為線上遊戲玩家設計的去中心化虛寶交易平台。
+**Xubao Marketplace** is a decentralized trading platform designed for online game players.
 
-傳統遊戲虛寶交易充斥著詐騙風險——買家付錢後賣家消失，或賣家交貨後買家拒付。虛寶交易所透過 **BNB Smart Chain 智能合約**解決這個問題：資金由區塊鏈合約自動託管，交易完成才放款，雙方均受到保護。
-
----
-
-## ✨ 核心特色
-
-### 🔒 智能合約資金託管（Escrow）
-買家確認購買後，USDT 自動轉入智能合約保管。賣家需完成遊戲內交貨並獲買家確認後，資金才會釋放。**全程無需信任對方，也無需信任平台。**
-
-### ⚡ 區塊鏈透明可查
-每一筆交易皆永久記錄於 BNB Smart Chain，任何人可在 [BscScan](https://bscscan.com) 上查詢驗證，無法偽造或竄改。
-
-### 🛡️ 完整爭議仲裁機制
-若交易出現糾紛（如賣家未交貨），買家可發起爭議申請。平台管理員介入調查後，裁決透過合約直接執行，公正且不可干預。
-
-### 🌍 繁體中文 / English 雙語介面
-一鍵切換語言，服務台灣及海外玩家。
-
-### 💻 免安裝、免下載
-只需電腦瀏覽器搭配 MetaMask 錢包即可完成所有操作，無需下載任何 App。
+Traditional virtual item trading is full of scam risks — buyers pay and sellers disappear, or sellers deliver and buyers refuse to pay. Xubao Marketplace solves this with **BNB Smart Chain smart contracts**: funds are automatically held in escrow by the blockchain contract and only released upon trade completion, protecting both parties.
 
 ---
 
-## 🎮 支援遊戲
+## ✨ Key Features
 
-| 遊戲 | 支援伺服器 |
-|------|-----------|
-| 🍁 新楓之谷 | 艾麗亞、普力特、琉德、優伊娜、愛麗西亞 等 |
-| ⚔️ 魔獸世界（經典版）| 依弗斯、瑪拉頓、玉石礦坑 等 |
-| 🏆 英雄聯盟 LOL | 台灣、韓國、美洲、新加坡 等 |
-| 💀 暗黑破壞神 4 | 神聖干涉賽季、煉獄混沌賽季、永恆服 等 |
-| 🌊 RO 仙境傳說 Online | 波利、查爾斯、巴基利、羅札納 |
-| 💕 天使之戀 / 天使之戀2 | 多伺服器 |
-| ⚡ 艾爾之光 | 太陽之神、德服 |
-| 🌸 希望戀曲 | 多伺服器 |
-| 🌑 黑色沙漠 | 全伺服器 |
-| 🔫 CSO 絕對武力 | 台服、陸服、韓服 |
+### 🔒 Smart Contract Escrow
+Once a buyer confirms a purchase, USDT is automatically locked in the smart contract. Funds are only released after the buyer confirms in-game delivery. **No need to trust the other party — or the platform.**
 
-> 持續擴充更多遊戲支援，歡迎聯絡新增。
+### ⚡ Fully Transparent On-Chain
+Every transaction is permanently recorded on BNB Smart Chain. Anyone can verify trades on [BscScan](https://bscscan.com) — immutable and tamper-proof.
+
+### 🛡️ Dispute Resolution
+If a dispute arises (e.g. seller fails to deliver), the buyer can file a dispute. The platform admin investigates and the ruling is enforced directly through the contract — fair and final.
+
+### 🌍 Bilingual Interface (中文 / English)
+Switch languages with one click, serving both Taiwanese and international players.
+
+### 💻 No Installation Required
+All operations are done through a desktop browser with MetaMask — no app download needed.
 
 ---
 
-## 💱 交易流程
+## 🎮 Supported Games
+
+| Game | Supported Servers |
+|------|------------------|
+| 🍁 MapleStory (新楓之谷) | Elria, Pulute, Liude, Yuina, Alicia, and more |
+| ⚔️ World of Warcraft Classic | Ives, Malton, Jade Mine, and more |
+| 🏆 League of Legends | Taiwan, Korea, Americas, Singapore, and more |
+| 💀 Diablo IV | Holy Interference, Purgatory Chaos Season, Eternal, and more |
+| 🌊 Ragnarok Online | Poring, Charles, Basilica, Rozana |
+| 💕 Angel Love / Angel Love 2 | Multiple servers |
+| ⚡ Elsword | Sol de Luna, DE server |
+| 🌸 Hope Romance | Multiple servers |
+| 🌑 Black Desert Online | All servers |
+| 🔫 CSO Counter-Strike Online | TW, CN, KR servers |
+
+> More games are continuously being added. Feel free to contact us to request additions.
+
+---
+
+## 💱 Trading Flow
 
 ```
-1. 賣家填寫商品資訊並上架（遊戲、伺服器、類型、售價、聯絡方式）
+1. Seller lists an item (game, server, type, price, contact info)
         ↓
-2. 買家瀏覽商品，填入遊戲角色名稱後點擊「確認購買」
+2. Buyer browses listings, enters in-game character name, and clicks "Buy"
         ↓
-3. USDT 自動轉入智能合約託管（買家錢包扣款）
+3. USDT is automatically locked in the smart contract escrow
         ↓
-4. 賣家透過聯絡方式找到買家，在遊戲內完成虛寶交付
+4. Seller contacts the buyer and delivers the virtual item in-game
         ↓
-5. 買家確認收到虛寶後點擊「確認收貨」
+5. Buyer confirms receipt by clicking "Confirm Delivery"
         ↓
-6. 合約自動將款項放款給賣家（扣除 3% 平台手續費）✓
+6. Contract automatically releases payment to the seller (minus 3% platform fee) ✓
 ```
 
-**其他情境：**
-- 買家不想等待 → 可取消訂單，USDT 全額退還（同一商品需等待 5 分鐘冷卻後可再購）
-- 逾時未確認（24 小時）→ 賣家可申請逾時領取
-- 發生糾紛 → 發起爭議，由管理員裁決（扣除 10% 仲裁費由敗訴方承擔）
+**Other scenarios:**
+- Buyer wants to cancel → Cancel the order, USDT is fully refunded (5-minute cooldown before re-purchasing the same listing)
+- No confirmation after 24 hours → Seller can claim a timeout release
+- Dispute arises → File a dispute; admin adjudicates (10% arbitration fee charged to the losing party)
 
 ---
 
-## 💰 費用說明
+## 💰 Fees
 
-| 項目 | 費率 | 說明 |
-|------|------|------|
-| 平台手續費 | **3%** | 交易成功後由賣家承擔，從放款中自動扣除 |
-| 爭議仲裁費 | **10%** | 爭議發生時由敗訴方承擔 |
-| 買家手續費 | **0%** | 買家無額外平台費用 |
-| 區塊鏈 Gas | 約 $0.03–0.10 USD | 由操作方支付（BNB），與平台無關 |
-
----
-
-## 🔐 安全性設計
-
-| 保護項目 | 說明 |
-|---------|------|
-| **非託管設計** | 平台無法主動取走用戶資金，資金由合約代碼管理 |
-| **合約驗證** | 智能合約已通過 [Sourcify](https://sourcify.dev) 驗證，原始碼公開可審計 |
-| **防重入攻擊** | 合約採用 ReentrancyGuard，防止重入漏洞 |
-| **身份驗證** | 敏感操作需錢包簽名驗證，確保只有本人可操作 |
-| **Cloudflare 防護** | 網站受 Cloudflare DDoS 防護、Bot 管理、WAF 保護 |
+| Item | Rate | Notes |
+|------|------|-------|
+| Platform Fee | **3%** | Deducted from seller's payout upon successful trade |
+| Dispute Fee | **10%** | Charged to the losing party in a dispute |
+| Buyer Fee | **0%** | No additional platform fee for buyers |
+| Blockchain Gas | ~$0.03–0.10 USD | Paid by the user in BNB; unrelated to the platform |
 
 ---
 
-## 📖 新手教學
+## 🔐 Security
 
-第一次使用加密貨幣交易？我們提供完整影片教學：
-
-| 影片 | 內容 |
-|------|------|
-| 🎬 [MetaMask 錢包設定 & 加入 USDT](https://www.youtube.com/watch?v=T5HSFzb7IBk) | 錢包安裝、BSC 網路設定、如何取得 USDT |
-| 🎬 [買賣交易完整教學](https://www.youtube.com/watch?v=2mwtaRmZp_A) | 如何上架、購買、確認收貨全流程示範 |
-
-👉 **完整教學中心：** [1689-marketplace.uk/tutorial](https://1689-marketplace.uk/tutorial/)
+| Protection | Details |
+|-----------|---------|
+| **Non-custodial** | The platform cannot access user funds; all funds are managed by contract code |
+| **Contract Verified** | Smart contract verified on [Sourcify](https://sourcify.dev) — source code is publicly auditable |
+| **Reentrancy Guard** | Contract uses ReentrancyGuard to prevent reentrancy attacks |
+| **Wallet Signature Auth** | Sensitive operations require wallet signature verification |
+| **Cloudflare Protection** | Site protected by Cloudflare DDoS mitigation, Bot Management, and WAF |
 
 ---
 
-## ⚠️ 免責聲明
+## 📖 Tutorial
 
-本平台僅提供技術撮合與資金託管服務，不對交易商品之合法性、真實性負責。加密貨幣交易具有市場風險，請使用者自行評估並謹慎操作。
+New to crypto trading? We provide complete video guides:
+
+| Video | Content |
+|-------|---------|
+| 🎬 [MetaMask Wallet Setup & Add USDT](https://www.youtube.com/watch?v=T5HSFzb7IBk) | Wallet install, BSC network setup, how to get USDT |
+| 🎬 [Full Buy & Sell Tutorial](https://www.youtube.com/watch?v=2mwtaRmZp_A) | How to list, buy, and confirm delivery — full walkthrough |
+
+👉 **Full Tutorial Center:** [1689-marketplace.uk/tutorial](https://1689-marketplace.uk/tutorial/)
+
+---
+
+## ⚠️ Disclaimer
+
+This platform provides only technical matching and escrow services, and is not responsible for the legality or authenticity of traded items. Cryptocurrency trading carries market risks — please evaluate carefully before proceeding.
 
 ---
 
 <div align="center">
 
-**虛寶交易所 © 2026**
+**Xubao Marketplace © 2026**
 
 Built on BNB Smart Chain · Powered by Cloudflare
 
-[🌐 前往平台](https://1689-marketplace.uk) · [📖 交易教學](https://1689-marketplace.uk/tutorial/)
+[🌐 Go to Platform](https://1689-marketplace.uk) · [📖 Tutorial](https://1689-marketplace.uk/tutorial/)
 
 </div>
