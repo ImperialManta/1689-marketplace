@@ -1,4 +1,4 @@
-# Xubao Marketplace — USDT Escrow Trading Platform
+# 1689 Marketplace — USDT Escrow Trading Platform
 
 > **A decentralized virtual item marketplace secured by USDT smart contract escrow on BNB Smart Chain.**
 
