@@ -119,7 +119,7 @@ This platform provides only technical matching and escrow services, and is not r
 
 <div align="center">
 
-**Xubao Marketplace © 2026**
+**1689 Marketplace © 2026**
 
 Built on BNB Smart Chain · Powered by Cloudflare
 
